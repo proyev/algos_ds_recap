@@ -1,2 +1,2 @@
-# algos_ds_recap
+# algorithms-exercises
 Created with CodeSandbox
